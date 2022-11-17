@@ -22,3 +22,4 @@ urlpatterns = [
     path('posts/', posts_view),
     path('hashtags/', hashtags_view),
 ]
+
